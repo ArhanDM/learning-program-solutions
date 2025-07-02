@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\source\\repos\\CustomerCommLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40FFF9A7-6E06-4C3F-AC2A-1E2B130E1486}|..\\CustomerCommLib\\CustomerComm.Tests\\CustomerComm.Tests.csproj|c:\\users\\kiit\\source\\repos\\customercommlib\\customercomm.tests\\customercommtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40FFF9A7-6E06-4C3F-AC2A-1E2B130E1486}|..\\CustomerCommLib\\CustomerComm.Tests\\CustomerComm.Tests.csproj|solutionrelative:customercomm.tests\\customercommtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40FFF9A7-6E06-4C3F-AC2A-1E2B130E1486}|..\\CustomerCommLib\\CustomerComm.Tests\\CustomerComm.Tests.csproj|c:\\users\\kiit\\source\\repos\\customercommlib\\customercomm.tests\\customercomm.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{40FFF9A7-6E06-4C3F-AC2A-1E2B130E1486}|..\\CustomerCommLib\\CustomerComm.Tests\\CustomerComm.Tests.csproj|solutionrelative:customercomm.tests\\customercomm.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6D2B42-1BEF-41A7-A5A1-E7290291DE8E}|..\\CustomerCommLib\\CustomerCommLib\\CustomerCommLib..csproj|c:\\users\\kiit\\source\\repos\\customercommlib\\customercommlib\\customercommlib..csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E6D2B42-1BEF-41A7-A5A1-E7290291DE8E}|..\\CustomerCommLib\\CustomerCommLib\\CustomerCommLib..csproj|solutionrelative:customercommlib\\customercommlib..csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6D2B42-1BEF-41A7-A5A1-E7290291DE8E}|..\\CustomerCommLib\\CustomerCommLib\\CustomerCommLib..csproj|c:\\users\\kiit\\source\\repos\\customercommlib\\customercommlib\\customercomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6D2B42-1BEF-41A7-A5A1-E7290291DE8E}|..\\CustomerCommLib\\CustomerCommLib\\CustomerCommLib..csproj|solutionrelative:customercommlib\\customercomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6D2B42-1BEF-41A7-A5A1-E7290291DE8E}|..\\CustomerCommLib\\CustomerCommLib\\CustomerCommLib..csproj|c:\\users\\kiit\\source\\repos\\customercommlib\\customercommlib\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6D2B42-1BEF-41A7-A5A1-E7290291DE8E}|..\\CustomerCommLib\\CustomerCommLib\\CustomerCommLib..csproj|solutionrelative:customercommlib\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6D2B42-1BEF-41A7-A5A1-E7290291DE8E}|..\\CustomerCommLib\\CustomerCommLib\\CustomerCommLib..csproj|c:\\users\\kiit\\source\\repos\\customercommlib\\customercommlib\\imailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6D2B42-1BEF-41A7-A5A1-E7290291DE8E}|..\\CustomerCommLib\\CustomerCommLib\\CustomerCommLib..csproj|solutionrelative:customercommlib\\imailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerComm.Tests",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\CustomerCommLib\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+              "RelativeDocumentMoniker": "CustomerComm.Tests\\CustomerComm.Tests.csproj",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\CustomerCommLib\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+              "RelativeToolTip": "CustomerComm.Tests\\CustomerComm.Tests.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-28T12:13:28.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerCommLib.",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\CustomerCommLib\\CustomerCommLib\\CustomerCommLib..csproj",
+              "RelativeDocumentMoniker": "CustomerCommLib\\CustomerCommLib..csproj",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\CustomerCommLib\\CustomerCommLib\\CustomerCommLib..csproj",
+              "RelativeToolTip": "CustomerCommLib\\CustomerCommLib..csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-28T12:04:47.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerCommTests.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\CustomerCommLib\\CustomerComm.Tests\\CustomerCommTests.cs",
+              "RelativeDocumentMoniker": "CustomerComm.Tests\\CustomerCommTests.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\CustomerCommLib\\CustomerComm.Tests\\CustomerCommTests.cs*",
+              "RelativeToolTip": "CustomerComm.Tests\\CustomerCommTests.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T11:59:39.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerComm.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\CustomerCommLib\\CustomerCommLib\\CustomerComm.cs",
+              "RelativeDocumentMoniker": "CustomerCommLib\\CustomerComm.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\CustomerCommLib\\CustomerCommLib\\CustomerComm.cs",
+              "RelativeToolTip": "CustomerCommLib\\CustomerComm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T11:57:04.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMailSender.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\CustomerCommLib\\CustomerCommLib\\IMailSender.cs",
+              "RelativeDocumentMoniker": "CustomerCommLib\\IMailSender.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\CustomerCommLib\\CustomerCommLib\\IMailSender.cs",
+              "RelativeToolTip": "CustomerCommLib\\IMailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T11:53:20.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MailSender.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\CustomerCommLib\\CustomerCommLib\\MailSender.cs",
+              "RelativeDocumentMoniker": "CustomerCommLib\\MailSender.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\CustomerCommLib\\CustomerCommLib\\MailSender.cs",
+              "RelativeToolTip": "CustomerCommLib\\MailSender.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T11:51:00.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
