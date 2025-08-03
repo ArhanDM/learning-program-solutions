@@ -1,0 +1,6 @@
+C:\Users\KIIT\source\repos\CalculatorLibrary\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll
+C:\Users\KIIT\source\repos\CalculatorLibrary\CalculatorLibrary\bin\Debug\CalculatorLibrary.pdb
+C:\Users\KIIT\source\repos\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.AssemblyReference.cache
+C:\Users\KIIT\source\repos\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\source\repos\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.dll
+C:\Users\KIIT\source\repos\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.pdb
